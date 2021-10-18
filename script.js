@@ -1,6 +1,6 @@
 $(function() {
   
   $('.lesson-c').click(function() {
-    $(this).find('ul').slideIn();
+    $(this).find('ul').slideUp();
   });
 });
