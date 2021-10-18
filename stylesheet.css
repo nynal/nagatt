@@ -2,6 +2,11 @@
   font-weight: normal;
 }
 
+body {
+  width: 1140px;
+  text-align: center;
+}
+
 li {
   color: #2f4f4f;
   display: none;
